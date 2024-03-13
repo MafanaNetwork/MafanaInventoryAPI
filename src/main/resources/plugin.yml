@@ -1,0 +1,4 @@
+name: MafanaInventoryAPI
+version: '${project.version}'
+main: me.tahacheji.mafana.MafanaInventoryAPI
+api-version: '1.20'
